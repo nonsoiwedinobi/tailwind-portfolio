@@ -32,7 +32,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: "../src/assets/project.png",
+    img: "project.png",
     url: "https://quiet-valkyrie-e2d4aa.netlify.app/",
     github: "https://github.com/nonsoiwedinobi/staffingforindustry",
     title: "Staffing4Industry",

@@ -9,10 +9,9 @@ const About = () => {
           <article>
             <SectionTitle text="code and coffee" />
             <p className="text-slate-600 mt-8 leading-loose">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro
-              omnis exercitationem tempora, aliquid deleniti tenetur vero esse
-              praesentium eaque dicta fugiat? Molestiae expedita, nulla neque
-              error porro sint distinctio possimus!
+              Passionate web developer with a knack for creating clean,
+              user-friendly websites and applications. Always eager to learn and
+              embrace new challenges in the tech world.
             </p>
           </article>
         </div>
