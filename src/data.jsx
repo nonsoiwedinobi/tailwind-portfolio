@@ -34,7 +34,7 @@ export const projects = [
   {
     id: nanoid(),
     img: "project.png",
-    url: "https://quiet-valkyrie-e2d4aa.netlify.app/",
+    url: "https://www.staffing4industry.com/",
     github: "https://github.com/nonsoiwedinobi/staffingforindustry",
     title: "Staffing4Industry",
     text: "Website Redesign: Spearheading the redesign of the company’s existing website to enhance user experience, improve functionality, and elevate our brand's online presence.",
