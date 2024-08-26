@@ -49,7 +49,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "QRgenerator",
+    img: "QRgenerator.png",
     url: "https://grand-lily-ad7d07.netlify.app/",
     github: "https://github.com/nonsoiwedinobi/qrcode-generator",
     title: "QR Generator",
